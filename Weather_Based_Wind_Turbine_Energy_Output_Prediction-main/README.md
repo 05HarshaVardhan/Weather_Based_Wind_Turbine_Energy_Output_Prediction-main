@@ -1,6 +1,5 @@
 # Weather-Based Prediction of Wind Turbine Energy Output: A Next-Generation Approach To Renewable Energy Management
 
-Project Submission for "**SmartBridge–APSCHE Long-Term Virtual Internship Program**" on "*Artificial Intelligence &amp; Machine Learning Track*"
 
 ---
 
